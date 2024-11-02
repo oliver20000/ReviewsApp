@@ -1,4 +1,4 @@
-Reviews App
+*Reviews App*
 
 Uma aplicação de reviews completa, criada com Vue.js no frontend, Node.js no backend e PostgreSQL para o banco de dados. O projeto utiliza DDD (Domain-Driven Design) e Event Sourcing para uma estrutura de software sólida e organizada, além de seguir a metodologia TDD (Test-Driven Development).
 
@@ -27,14 +27,15 @@ Configuração e Inicialização:
 
 Para iniciar o projeto, siga as etapas abaixo.
 
-1. Clone o repositório:
+Clone o repositório:
 git clone https://github.com/oliver20000/ReviewsApp.git
 cd reviews-test
 
-2. Configuração do Docker:
+Configuração do Docker:
 Na raiz do projeto execute "docker-compose up --build"
 
-3. Configuração Manual (sem Docker):
+
+Configuração Manual (sem Docker):
 
 Backend:
 Instale as dependências "npm install".
